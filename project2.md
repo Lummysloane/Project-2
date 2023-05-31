@@ -8,6 +8,10 @@
 
 # 5. [localhost.png](https://github.com/Lummysloane/Project-2/blob/main/localhost.png)
 
-# 6.
+# 6. [Nginx.png](https://github.com/Lummysloane/Project-2/blob/main/Nginx.png)
 
-# 7. [Nginx.png](https://github.com/Lummysloane/Project-2/blob/main/Nginx.png)
+# 7. sudo apt install mysql-server
+
+# 8. sudo mysql
+
+# 9. [mysql.png](
