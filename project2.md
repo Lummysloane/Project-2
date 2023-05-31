@@ -1,2 +1,2 @@
-1. # sudo apt update
+# 1. sudo apt update
 
