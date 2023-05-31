@@ -14,4 +14,4 @@
 
 # 8. sudo mysql
 
-# 9. [mysql.png](
+# 9. [mysql.png](https://github.com/Lummysloane/Project-2/blob/main/mysql.png)
