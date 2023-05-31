@@ -6,4 +6,4 @@
 
 # 4. curl http://localhost:80
 
-!([localhost.png}(https://github.com/Lummysloane/Project-2/blob/main/localhost.png))
+![localhost.png](https://github.com/Lummysloane/Project-2/blob/main/localhost.png))
