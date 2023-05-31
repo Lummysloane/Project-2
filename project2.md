@@ -15,3 +15,7 @@
 # 8. sudo mysql
 
 # 9. [mysql.png](https://github.com/Lummysloane/Project-2/blob/main/mysql.png)
+
+# 10. sudo mysql -p
+
+# 11. [mysql -p.png](https://github.com/Lummysloane/Project-2/blob/main/mysql%20-p.png)
