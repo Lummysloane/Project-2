@@ -19,3 +19,6 @@
 # 10. sudo mysql -p
 
 # 11. [mysql -p.png](https://github.com/Lummysloane/Project-2/blob/main/mysql%20-p.png)
+
+# 12. sudo apt install php-fpm php-mysql
+
