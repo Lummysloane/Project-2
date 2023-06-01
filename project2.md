@@ -48,8 +48,6 @@
 
 # 25. [phpversion.png](https://github.com/Lummysloane/Project-2/blob/main/phpversion.png)
 
-# 26. [database1.png](https://github.com/Lummysloane/Project-2/blob/main/database1.png)
-
 # 26. mysql> CREATE DATABASE `example_database`;
 
 # 27. mysql>  CREATE USER 'example_user'@'%' IDENTIFIED WITH mysql_native_password BY 'password';
@@ -59,3 +57,7 @@
 # 29. mysql> SHOW DATABASES;
 
 # 30. [projectlempinfo.png](https://github.com/Lummysloane/Project-2/blob/main/projectlempinfo.png)
+
+# 31.[database1.png](https://github.com/Lummysloane/Project-2/blob/main/database1.png)
+
+# 32. [database2.png](https://github.com/Lummysloane/Project-2/blob/main/database2.png)
