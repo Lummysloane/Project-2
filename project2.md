@@ -22,3 +22,16 @@
 
 # 12. sudo apt install php-fpm php-mysql
 
+# 13. [nginx-php.png](https://github.com/Lummysloane/Project-2/blob/main/nginx-php.png)
+
+# 14. sudo mkdir /var/www/projectLEMP
+
+# 15. sudo chown -R $USER:$USER /var/www/projectLEMP
+
+# 16. sudo nano /etc/nginx/sites-available/projectLEMP
+
+# 17. sudo ln -s /etc/nginx/sites-available/projectLEMP /etc/nginx/sites-enabled/
+
+# 18. sudo nginx -t
+
+# 19. 
