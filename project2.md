@@ -55,3 +55,5 @@
 # 28. mysql> GRANT ALL ON example_database.* TO 'example_user'@'%';
 
 # 29. mysql> SHOW DATABASES;
+
+# 30. [projectlempinfo.png](https://github.com/Lummysloane/Project-2/blob/main/projectlempinfo.png)
