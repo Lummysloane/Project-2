@@ -47,3 +47,11 @@
 # 24. php phpinfo();
 
 # 25. [phpversion.png](https://github.com/Lummysloane/Project-2/blob/main/phpversion.png)
+
+# 26. mysql> CREATE DATABASE `example_database`;
+
+# 27. mysql>  CREATE USER 'example_user'@'%' IDENTIFIED WITH mysql_native_password BY 'password';
+
+# 28. mysql> GRANT ALL ON example_database.* TO 'example_user'@'%';
+
+# 29. mysql> SHOW DATABASES;
