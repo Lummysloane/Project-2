@@ -44,7 +44,6 @@
 
 # 23. sudo nano /var/www/projectLEMP/info.php
 
-# 24. <?php
-phpinfo();
+# 24. php phpinfo();
 
-[phpversion.png](
+# 25. [phpversion.png](https://github.com/Lummysloane/Project-2/blob/main/phpversion.png)
