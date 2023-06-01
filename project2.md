@@ -34,4 +34,10 @@
 
 # 18. sudo nginx -t
 
-# 19. 
+# 19. [projectLEMP.png](https://github.com/Lummysloane/Project-2/blob/main/projectLEMP.png)
+
+# 20 sudo systemctl reload nginx
+
+# 21 sudo echo 'Hello LEMP from hostname' $(curl -s http://169.254.169.254/latest/meta-data/public-hostname) 'with public IP' $(curl -s http://169.254.169.254/latest/meta-data/public-ipv4) > /var/www/projectLEMP/index.html
+
+
